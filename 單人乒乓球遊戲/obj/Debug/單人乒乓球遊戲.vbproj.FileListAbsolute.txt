@@ -1,0 +1,9 @@
+C:\Users\IT\Desktop\打砖块游戏\bin\Debug\單人乒乓球遊戲.exe
+C:\Users\IT\Desktop\打砖块游戏\bin\Debug\單人乒乓球遊戲.pdb
+C:\Users\IT\Desktop\打砖块游戏\bin\Debug\單人乒乓球遊戲.xml
+C:\Users\IT\Desktop\打砖块游戏\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\IT\Desktop\打砖块游戏\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\IT\Desktop\打砖块游戏\obj\Debug\單人乒乓球遊戲.vbproj.GenerateResource.Cache
+C:\Users\IT\Desktop\打砖块游戏\obj\Debug\單人乒乓球遊戲.exe
+C:\Users\IT\Desktop\打砖块游戏\obj\Debug\單人乒乓球遊戲.xml
+C:\Users\IT\Desktop\打砖块游戏\obj\Debug\單人乒乓球遊戲.pdb
