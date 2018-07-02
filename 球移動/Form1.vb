@@ -16,18 +16,18 @@ Public Class Form1
         '-----------------------------------------------------
         'if用來判斷邊線
         '-----------------------------------------------------
-        If (yuan.Top >= 295 And yuan.Top <= 296) Or (yuan.Top >= 9 And yuan.Top <= 11) Then
+        If (yuan.Top >= Me.Height - 47) Or (yuan.Top < 0) Then
             y = -y
         End If
-        If (yuan.Left >= 369 And yuan.Left <= 371) Or (yuan.Left >= 9 And yuan.Left <= 11) Then
+        If (yuan.Left >= Me.Width - 27) Or (yuan.Left < 0) Then
             x = -x
         End If
 
         '-----------------------------------------------------
         '座標顯示
         '-----------------------------------------------------
-        C1.Text = "X:" + CStr(yuan.Left - 10)
-        C2.Text = "Y:" + CStr(yuan.Top - 10)
+        C1.Text = "X:" + CStr(yuan.Left)
+        C2.Text = "Y:" + CStr(yuan.Top)
     End Sub
 
 End Class
